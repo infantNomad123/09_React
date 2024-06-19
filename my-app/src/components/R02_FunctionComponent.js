@@ -18,9 +18,6 @@ const ClickCount = () => {
 // 2. return 구문에 출력하고자 하는 html 코드 작성
 // 3. 만든 함수를 export default 지정하기
 
-
-
-
 const FunctionEx = () => {
     /* 리액트 컴포넌트 입니다 ~ */
     return(
